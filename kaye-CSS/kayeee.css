@@ -1,0 +1,82 @@
+.yesbtn
+{
+    font-family: Arial;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.yesbtn:hover
+{
+    background-color: green;
+}
+
+.yesbtn:active
+{
+    opacity: 1;
+}
+
+.nobtn
+{
+    font-family: Arial;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.nobtn:hover
+{
+    background-color: pink;
+}
+
+.nobtn:active
+{
+    background-color: red;
+}
+
+.p1, .p2
+{
+    color: white;
+    font-family: Arial;
+    font-size: 20px;   
+}
+
+.p3
+{
+    margin-left: 12px;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;   
+}
+
+.kaye-pic
+{
+    border-radius: 20px;
+    width: 500px;
+    display: block;
+}
+
+.lcontent
+{
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 150px;
+}
+
+.rcontent
+{
+    width: 300px;
+    display: inline-block;
+}
+
+body{
+   background-image:url(https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif);
+   background-size: cover;
+   background-attachment: scroll;
+}
+
+.tugtog
+{
+    vertical-align: middle;
+    display: inline-block;
+}
